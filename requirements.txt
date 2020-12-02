@@ -1,3 +1,4 @@
+tzlocal==2.1
 APScheduler==3.6.3
 requests==2.20.1
 aiohttp==3.6.2
